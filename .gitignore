@@ -28,5 +28,5 @@ node_modules
 
 # Emacs
 *~
-package-lock.json
+**/package-lock.json
 build
